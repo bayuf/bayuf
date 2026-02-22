@@ -1,29 +1,34 @@
-# Hi, I'm Bayu 👋
+# Hi, I'm Bayu Firmansyah👋
 
 ### Backend Developer | Go (Golang) | Network Infrastructure
 
 I am a Backend Engineer with a strong foundation in **Network Infrastructure** (ex-IT Support). I bridge the gap between building scalable server-side applications and managing robust network environments.
 
 ---
+### 🛠️ Tech Stack
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MikroTik](https://img.shields.io/badge/mikrotik-%23EE1F25.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### 🚀 Technical Skills
-- **Languages:** Go (Golang), PHP (Laravel), JavaScript.
+- **Languages:** Go (Golang).
 - **Backend:** Clean Architecture, RESTful API, Microservices, JWT, GORM.
 - **Infrastructure:** Mikrotik (RouterOS), Networking (VLAN, Routing, Bandwidth Management).
-- **Tools:** Docker, PostgreSQL, MySQL, Git, Postman.
+- **Tools:** Docker, PostgreSQL, Redis, Git, Postman.
 
 ### 🛠️ Featured Project
-- **[Go-Rest-API-Microtik](https://github.com/bayuf/link-ke-repo-kamu)**: A bridge between Go Backend and Mikrotik RouterOS for automated network management.
-- **[Sistem-Sekolah-Go](https://github.com/bayuf/link-ke-repo-kamu)**: Example of implementing Clean Architecture in a real-world scenario.
+- **[E-Commerce RESTfull API]([https://github.com/bayuf/link-ke-repo-kamu](https://github.com/lumoshive-final-project-batch-III/Backend-project-app-ecommerce-golang-tim-Mint))**: A robust e-commerce backend system built with Go. Features include user authentication, product management, and transaction handling with a focus on performance and security.
+- **[Point Of Sale (POS) Golang](https://github.com/bayuf/project-POS-APP-golang-string-team)**: A Point of Sale application backend implementing Clean Architecture. Designed for scalability and ease of integration with various payment or inventory systems.
 
 ### 📊 GitHub Stats
-![Bayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayuf&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayuf&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bayuf&theme=tokyonight)
 
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn**: [linkedin.com/in/username-kamu](https://linkedin.com/in/username-kamu)
-- **Email**: email-kamu@example.com
+- **LinkedIn**: [linkedin.com/in/bayu19fr](https://www.linkedin.com/in/bayu19fr/)
+- **Email**: bayufirmansyah19.official@gmail.com
 
 *"Transforming complex infrastructure into simple, efficient code."*
