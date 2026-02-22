@@ -2,7 +2,7 @@
 
 ### Backend Developer | Go (Golang) | Network Infrastructure
 
-I am a Backend Engineer with a strong foundation in **Network Infrastructure** (ex-IT Support). I bridge the gap between building scalable server-side applications and managing robust network environments.
+I am a Backend Engineer with a strong foundation in **Network Infrastructure**. I bridge the gap between building scalable server-side applications and managing robust network environments.
 
 ---
 ### 🛠️ Tech Stack
